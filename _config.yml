@@ -1,0 +1,235 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Andreas Messalas
+title: Senior Consultant (AI Engineer)
+email: andmessalas@gmail.com
+website: https://amessalas.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+twitter_username: AndreasMessalas
+github_username: amessalas
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: andreasmessalas
+linkedin_username: andreas-messalas-4b7644168
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+orcid_username: 0000-0001-7555-2553
+
+# Additional icon links
+additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Andreas, and I'm an <span class="blue">AI Engineer</span> currently working as a Senior Technology Consultant at EY.
+  With extensive experience in <span class="blue">Python</span>, <span class="blue">AI</span>, and <span class="blue">Machine Learning</span>, I design and implement advanced systems to tackle complicated problems. My proficiency in building efficient <span class="blue">data pipelines</span> is complemented by my experience in designing <span class="blue">REST APIs</span>, <span class="blue">micro-services</span>, and <span class="blue">event-driven</span> architectures, ensuring seamless data flow and processing.
+
+  I am well-versed in best software practices, which I apply rigorously to ensure the quality and reliability of my work. I also have in-depth knowledge of <span class="blue">CI/CD</span> processes using <span class="blue">GitHub Actions</span>, which I leverage to automate testing, building, and deployment, ensuring fast and reliable delivery of software updates. Additionally, I have a proven track record of effectively <span class="blue">leading teams</span> to achieve successful outcomes in an <span class="blue">Agile</span> manner. 
+
+  In my work, I utilize technologies like <span class="blue">Azure</span> for scalable cloud solutions and <span class="blue">Kafka</span> for real-time data streaming. My skills in <span class="blue">MLOps</span> using tools like <span class="blue">MLFlow</span> enable me to manage and streamline machine learning workflows, ensuring efficient and reliable deployment of AI models.
+
+  My native language is Greek 🇬🇷, I am proficient in English 🇬🇧 at a C2 level, conversational in Spanish 🇪🇸, and have basic knowledge of German 🇩🇪
+
+content:
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: top-middle
+  #       title: Super awesome project
+  #       link: github.com/sproogen
+  #       # link_text: Project Website
+  #       additional_links:
+  #         - title: sproogen/modern-resume-theme
+  #           icon: fab fa-github
+  #           url: github.com/sproogen/modern-resume-theme
+  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #         #   icon: fab fa-github
+  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+  #       quote: >
+  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  #       description: | # this will include new lines to allow paragraphs
+  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Ernst & Young Global Limited
+        link: https://www.ey.com/en_gr
+        # link_text: boringcompany.com
+        sub_title: Senior Technology Consultant
+        caption: July 2021 - Present
+        quote: >
+          Empowering top-tier clients with cutting-edge AI solutions at EY.
+        description: | # this will include new lines to allow paragraphs
+          Help high-proﬁle clients deal with data related issues by implementing AI-powered end-to-end solutions. While at EY I have worked at:
+          - Application of AI for deduplicating learning courses and CRM databases.
+          - Design and implementation of event-driven architecture using Apache Kafka and Azure ML Studio (and MLFlow) for predictive maintenance of streaming IoT data from factory sensors
+          - Application of AI to the analysis of (Greek) legal and regulatory documents
+          - Design and implementation of Generative AI applications for QA, Summarization and Field Extraction purposes
+          - Engaged in MLOps responsibilities, overseeing the seamless integration of machine learning models into production, optimizing deployment pipelines.
+
+      - layout: left
+        title: Code4Thought
+        link: https://code4thought.eu/
+        # link_text: boringcompany.com
+        sub_title: Machine Learning Engineer
+        caption: July 2019 - June 2021
+        quote: >
+          Engineering AI with fairness, accountability, and robustness — turning complexity into clarity.
+        description: | # this will include new lines to allow paragraphs
+          Building PyThia, a technology that will ensure AI/ML systems are fair, accountable, explainable and adversarially robust. My responsibilities were diverse:
+          - Research and develop evaluation schemes for various Machine Learning (ML) systems
+          - Develop in Python a core part of Pythia
+          - Present and interact with both technical customers and non-technical audiences.
+
+      - layout: left
+        title: Cracow University of Technology
+        link: https://www.pk.edu.pl/index.php?lang=en
+        # link_text: boringcompany.com
+        sub_title: Researcher
+        caption: March 2019 - May 2019
+        description: | # this will include new lines to allow paragraphs
+          Researcher in the Faculty of Physics, Mathematics & Computer Sciences, supervised by prof. Michał Bereta on the topic of "Feature selection using Shapley values"
+
+  - title: Techincal Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      **Data Analysis & AI/ML**
+      - Proven record of delivering high-quality <span class="blue">AI-powered</span> solutions and driving successful projects using <span class="blue">Deep Learning</span> and <span class="blue">Generative AI</span>
+      - Deep knowledge of <span class="blue">(un)supervised learning algorithms</span>, <span class="blue">statistical modeling methods</span>, <span class="blue">EDA</span>, <span class="blue">data cleaning</span>, <span class="blue">feature selection</span>, <span class="blue">dimensionality reduction</span> and <span class="blue">performance evaluation</span> schemes for ML models
+      - Most used frameworks: <span class="blue">Pandas</span>, <span class="blue">NumPy</span>, <span class="blue">Scikit-Learn</span>, <span class="blue">PyTorch</span>, <span class="blue">spaCy</span>, <span class="blue">ElasticSearch</span>, <span class="blue">Langchain</span>, <span class="blue">Haystack</span>, <span class="blue">Faiss</span>, <span class="blue">PySpark</span>, <span class="blue">XGBoost</span>, <span class="blue">OpenAI</span>, <span class="blue">Polars</span>, <span class="blue">SQL</span>, etc.
+      - Expertise on ML <span class="blue">Interpretability</span>, <span class="blue">Fairness</span> and <span class="blue">Adversarial Robustness</span>
+
+      **Software Engineering & MLOPs**
+      - Extensive experience with <span class="blue">Microsoft Azure</span> Services
+      - Proﬁcient in containerization using <span class="blue">Docker</span> and basic <span class="blue">Kubernetes</span> skills
+      - Extensive knowledge of <span class="blue">SE principles</span> and <span class="blue">Design Patterns</span> that promote readability and robust software systems.
+      - Experienced in <span class="blue">REST API</span> design using <span class="blue">FastAPI</span>, <span class="blue">Pydantic</span> and <span class="blue">Celery</span> for asynchronous task execution of long-running¸
+      - Proﬁcient in <span class="blue">Apache Kafka</span> for scalable event-driven architectures.
+      - Experience with <span class="blue">CI/CD</span> pipelines using <span class="blue">GitHub Actions</span>.
+      - Experience in monitoring and visualization tools like <span class="blue">Prometheus</span> and <span class="blue">Grafana</span>.
+      - Extensive experience with <span class="blue">Git</span>.
+
+      **Visualisations**
+      - Deep experience on building insightful dashboards that are intuitive and easy to use
+      - Most used frameworks: <span class="blue">streamlit</span>, <span class="blue">plotly/dash</span>, <span class="blue">seaborn</span>, <span class="blue">matplotlib</span>
+
+  - title: Management and Soft Skills # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      I am a <span class="blue">Certified Scrum Master (PSM-I)</span> with a proven track record of effectively leading teams to achieve successful outcomes. My approach to team management emphasizes <span class="blue">open communication</span>, fostering a <span class="blue">collaborative environment</span> where every member can contribute their best towards our shared goals.
+
+      As a team player, I excel in facilitating discussions, ensuring <span class="blue">all voices are heard</span>, and driving the group towards consensus and success. 
+
+      My experience with <span class="blue">customer interaction</span> has honed my ability to understand client needs, build strong relationships, and deliver solutions that exceed expectations.
+
+      Staying in touch with the latest developments in AI, I am perpetually <span class="blue">curious</span> and <span class="blue">eager</span> to explore new ideas and concepts. This curiosity fuels my continuous learning and growth, enabling me to bring fresh perspectives and innovative solutions to any project I undertake.
+
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Conference Proceedings
+        link: https://scholar.google.com/citations?user=YoznrWcAAAAJ&hl=el&oi=ao
+        # link_text: boringcompany.com
+        sub_title: IEEE Conferences
+        description: | # this will include new lines to allow paragraphs
+          - Messalas, A., C. Aridas, and Y. Kanellopoulos (2020).  “Evaluating MASHAP as a faster alternative to LIME for model-agnostic machine learning interpretability”. In 2020 IEEE International Conference on Big Data (Big Data), pp. 5777–5779. DOI 10. 1109/BigData50022.2020.9378034.
+          - Messalas, A., Y. Kanellopoulos, and C. Makris (2019). “Model-Agnostic Interpretability with Shapley Values”. In 2019 10th International Conference on Information, Intelligence, Systems and Applications (IISA), pp. 1–7. DOI 10.1109/IISA.2019.8900669.
+
+      - layout: left
+        title: Book contributions
+        link: https://www.oreilly.com/library/view/97-things-about/9781492072652/
+        # link_text: boringcompany.com
+        sub_title: O'Reilly Media, Inc.
+        description: | # this will include new lines to allow paragraphs
+          - Franks, Bill (Sept. 2020). “Use model-agnostic explanations for ﬁnding bias in black box models”. In 97 Things About Ethics Everyone in Data Science Should Know (O’Reilly Media).
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Patras
+        caption: 2013 - 2019
+        sub_title: MEng in Computer Engineering and Informatics
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          The Department's 5-year program provides the scientific and engineering foundation for graduates to contribute to the study, design, development, and analysis of software and hardware systems, as well as theoretical approaches in communication, computation, coordination, and evaluation  of computational objects and artifacts.
+          - Grade: 7.87/10 
+          - Thesis title: Model-Agnostic Interpretability with Shapley Values
+
+      - layout: left
+        title: Universidad de Granada
+        caption: 2018
+        sub_title: Erasmus Studies exchange program
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Studied for one semester in the School of Informatics and Telecommunications Engineering (ETSIIT) in Granada, Spain.
+
+      - layout: left
+        title: 13rd High School of Patras
+        caption: 2010-2013
+        sub_title: High-School Diploma
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Overall Grade: 19.0/20
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in AI, ML and software engineering some of my other interests and hobbies are:
+      - Music 🎸
+      - Movies 🎬
+      - Books 📚
+      - Travel 🛫
+      - Gym 🏋️
+
+      My favorite place on earth is Granada!
+
+      ![Trees](images/granada.jpg "Granada")
+      (*Alhambra of Granada, taken in June 2018 from Mirador de San Nicolás*)
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag

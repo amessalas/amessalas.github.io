@@ -48,15 +48,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Andreas, and I'm an <span class="blue">AI Engineer</span> currently working as a Senior Technology Consultant at EY.
-  With extensive experience in <span class="blue">Python</span>, <span class="blue">AI</span>, and <span class="blue">Machine Learning</span>, I design and implement advanced systems to tackle complicated problems. My proficiency in building efficient <span class="blue">data pipelines</span> is complemented by my experience in designing <span class="blue">REST APIs</span>, <span class="blue">micro-services</span>, and <span class="blue">event-driven</span> architectures, ensuring seamless data flow and processing.
+  Hello, my name is Andreas, and I'm an <span class="blue">AI Engineer</span> currently serving as a Senior Technology Consultant at EY.
+  With a wealth of experience in <span class="blue">Python</span>, <span class="blue">artificial intelligence</span>, and <span class="blue">machine learning</span>, I specialize in designing and implementing sophisticated systems to solve complex challenges. My expertise extends to creating efficient <span class="blue">data pipelines</span>, and I have a strong background in developing <span class="blue">REST APIs</span>, <span class="blue">micro-services</span>, and <span class="blue">event-driven</span> architectures that ensure smooth data transmission and processing.
 
-  I am well-versed in best software practices, which I apply rigorously to ensure the quality and reliability of my work. I also have in-depth knowledge of <span class="blue">CI/CD</span> processes using <span class="blue">GitHub Actions</span>, which I leverage to automate testing, building, and deployment, ensuring fast and reliable delivery of software updates. Additionally, I have a proven track record of effectively <span class="blue">leading teams</span> to achieve successful outcomes in an <span class="blue">Agile</span> manner. 
+  I am deeply familiar with best practices in software development, which I apply rigorously to ensure the quality and reliability of my work. My comprehensive understanding of <span class="blue">CI/CD</span>, particularly with <span class="blue">GitHub Actions</span>, allows me to automate tests, builds, and deployments, facilitating the swift and consistent delivery of software updates. Moreover, I have a demonstrated history of <span class="blue">leading teams</span> to success by employing <span class="blue">Agile</span> methodologies effectively. 
 
-  In my work, I utilize technologies like <span class="blue">Azure</span> for scalable cloud solutions and <span class="blue">Kafka</span> for real-time data streaming. My skills in <span class="blue">MLOps</span> using tools like <span class="blue">MLFlow</span> enable me to manage and streamline machine learning workflows, ensuring efficient and reliable deployment of AI models.
-
-  My native language is Greek 🇬🇷, I am proficient in English 🇬🇧 at a C2 level, conversational in Spanish 🇪🇸, and have basic knowledge of German 🇩🇪
-
+  In my professional endeavors, I leverage technologies such as <span class="blue">Azure</span> for scalable cloud solutions and <span class="blue">Kafka</span> for real-time data streaming. My proficiency in <span class="blue">MLOps</span> utilizing tools like <span class="blue">MLFlow</span>, empowers me to oversee and optimize machine learning workflows, ensuring the efficient and dependable deployment of AI models.
+  
+  I am a native Greek speaker 🇬🇷, possess a C2 level proficiency in English 🇬🇧, am conversational in Spanish 🇪🇸, and have a foundational understanding of German 🇩🇪.
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)

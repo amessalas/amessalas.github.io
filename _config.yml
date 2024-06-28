@@ -116,6 +116,8 @@ content:
         link: https://www.pk.edu.pl/index.php?lang=en
         # link_text: boringcompany.com
         sub_title: Researcher
+        quote: >
+          Wiedza to potęga.
         caption: March 2019 - May 2019
         description: | # this will include new lines to allow paragraphs
           Internship as a Researcher within the Faculty of Physics, Mathematics & Computer Science, under the mentorship of Professor Michał Bereta. My research focused on the topic of "Feature Selection Using Shapley Values," exploring advanced methods for identifying the most impactful variables in machine learning models.

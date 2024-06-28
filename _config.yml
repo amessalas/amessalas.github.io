@@ -148,13 +148,13 @@ content:
   - title: Management and Soft Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      I am a <span class="blue">Certified Scrum Master (PSM-I)</span> with a proven track record of effectively leading teams to achieve successful outcomes. My approach to team management emphasizes <span class="blue">open communication</span>, fostering a <span class="blue">collaborative environment</span> where every member can contribute their best towards our shared goals.
+      I am a <span class="blue">Certified Scrum Master (PSM-I)</span> with a proven track record of leading teams effectively to achieve successful outcomes. My team management approach is centered on <span class="blue">open communication</span>, fostering a <span class="blue">collaborative environment</span> where each member is empowered to contribute their best toward our shared objectives.
 
-      As a team player, I excel in facilitating discussions, ensuring <span class="blue">all voices are heard</span>, and driving the group towards consensus and success. 
+      As a dedicated team player, I excel in facilitating discussions, ensuring that <span class="blue">all voices are heard</span>,  and guiding the group toward consensus and collective success.
 
-      My experience with <span class="blue">customer interaction</span> has honed my ability to understand client needs, build strong relationships, and deliver solutions that exceed expectations.
+      My experience in <span class="blue">customer interaction</span> has sharpened my ability to comprehend client needs, forge strong relationships, and deliver solutions that surpass expectations.
 
-      Staying in touch with the latest developments in AI, I am perpetually <span class="blue">curious</span> and <span class="blue">eager</span> to explore new ideas and concepts. This curiosity fuels my continuous learning and growth, enabling me to bring fresh perspectives and innovative solutions to any project I undertake.
+      Committed to staying in touch with the latest developments in AI, I am perpetually <span class="blue">curious</span> and <span class="blue">eager</span> to explore new ideas and concepts. This drive for <span class="blue">continuous</span> learning and growth enables me to introduce fresh perspectives and innovative solutions to every project I am involved with.
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)

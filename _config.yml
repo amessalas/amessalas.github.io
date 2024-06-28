@@ -45,7 +45,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: <span class="blue">About Me</span>
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Andreas, and I'm an <span class="blue">AI Engineer</span> currently serving as a Senior Technology Consultant at EY.
@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am deeply familiar with best practices in software development, which I apply rigorously to ensure the quality and reliability of my work. My comprehensive understanding of <span class="blue">CI/CD</span>, particularly with <span class="blue">GitHub Actions</span>, allows me to automate tests, builds, and deployments, facilitating the swift and consistent delivery of software updates. Moreover, I have a demonstrated history of <span class="blue">leading teams</span> to success by employing <span class="blue">Agile</span> methodologies effectively. 
 
   In my professional endeavors, I leverage technologies such as <span class="blue">Azure</span> for scalable cloud solutions and <span class="blue">Kafka</span> for real-time data streaming. My proficiency in <span class="blue">MLOps</span> utilizing tools like <span class="blue">MLFlow</span>, empowers me to oversee and optimize machine learning workflows, ensuring the efficient and dependable deployment of AI models.
-  
+
   I am a native Greek speaker 🇬🇷, possess a C2 level proficiency in English 🇬🇧, am conversational in Spanish 🇪🇸, and have a foundational understanding of German 🇩🇪.
 content:
   # - title: Projects # Title for the section
@@ -76,7 +76,7 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+  - title: <span class="blue">Experience</span> # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -96,13 +96,15 @@ content:
           - Designing and implementing <span class="blue">Generative AI</span> applications for quality assurance, summarization, and field extraction, streamlining complex tasks and providing valuable insights.
           - Executing comprehensive <span class="blue">MLOps</span> activities and leading the development of full-cycle AI-powered solutions, from conception to deployment, ensuring robust and scalable systems.
           - Serving as the <span class="blue">Azure administrator</span> for the "AI and Data" team, I am responsible for the management, optimization, and governance of cloud resources, ensuring that our AI initiatives and data workflows are supported effectively and adhere to best practices and compliance standards.
+          - Successfully <span class="blue">led teams</span> in high-stakes environments, guiding them through complex project lifecycles and ensuring the delivery of innovative AI solutions that meet and exceed client expectations.
           - Championing <span class="blue">software excellence</span> by encouraging my team through comprehensive guides and engaging presentations to adhere to best practices and write <span class="blue">clean, maintainable code</span>, thereby elevating the overall quality and sustainability of our software solutions.
       - layout: left
         title: Code4Thought
         link: https://code4thought.eu/
         # link_text: boringcompany.com
         sub_title: Machine Learning Engineer
-        caption: July 2019 - June 2021
+        caption: |
+          July 2019 - June 2021 *
         quote: >
           Engineering AI with fairness, accountability, and robustness — turning complexity into clarity.
         description: | # this will include new lines to allow paragraphs
@@ -110,6 +112,8 @@ content:
           - Conducting research and developing evaluation frameworks to assess the performance and integrity of various machine learning (ML) systems.
           - Programming a critical component of Pythia using Python, contributing to the core functionality of the technology.
           - Delivering presentations and engaging with a diverse range of stakeholders, including technical customers and non-technical audiences, to communicate complex concepts effectively and foster understanding.
+
+          *** Note**: Took a break from February 2020 to July 2020 to fulfill the mandatory <span class="blue">military service</span> in Greece.
 
       - layout: left
         title: Cracow University of Technology
@@ -122,7 +126,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Internship as a Researcher within the Faculty of Physics, Mathematics & Computer Science, under the mentorship of Professor Michał Bereta. My research focused on the topic of "Feature Selection Using Shapley Values," exploring advanced methods for identifying the most impactful variables in machine learning models.
 
-  - title: Technical Skills # Title for the section
+  - title: <span class="blue">Technical Skills</span> # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       **Data Analysis & AI/ML**
@@ -132,7 +136,7 @@ content:
       - Proficiency in frameworks and tools such as <span class="blue">Pandas</span>, <span class="blue">NumPy</span>, <span class="blue">Scikit-Learn</span>, <span class="blue">PyTorch</span>, <span class="blue">spaCy</span>, <span class="blue">Langchain</span>, <span class="blue">Haystack</span>, <span class="blue">Faiss</span>, <span class="blue">ElasticSearch</span>, <span class="blue">PySpark</span>, <span class="blue">XGBoost</span>, <span class="blue">OpenAI</span>, <span class="blue">Polars</span>, <span class="blue">SQL</span>, etc.
       - Expertise in ML <span class="blue">Interpretability</span>, <span class="blue">Fairness</span> and <span class="blue">Adversarial Robustness</span>
 
-      
+
       **Software Engineering & MLOPs**
       - Extensive experience with <span class="blue">Microsoft Azure</span> Services, including management, optimization, and governance of cloud resources.
       - Proﬁcient in containerization using <span class="blue">Docker</span> and possessing basic <span class="blue">Kubernetes</span> skills
@@ -147,7 +151,7 @@ content:
       - Deep experience in building insightful, intuitive, and user-friendly dashboards.
       - Proficiency in visualization frameworks such as <span class="blue">Streamlit</span>, <span class="blue">Plotly/Dash</span>, <span class="blue">Seaborn</span>, <span class="blue">Matplotlib</span>
 
-  - title: Management and Soft Skills # Title for the section
+  - title: <span class="blue">Management and Soft Skills</span> # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       I am a <span class="blue">Certified Scrum Master (PSM-I)</span> with a proven track record of leading teams effectively to achieve successful outcomes. My team management approach is centered on <span class="blue">open communication</span>, fostering a <span class="blue">collaborative environment</span> where each member is empowered to contribute their best toward our shared objectives.
@@ -158,7 +162,7 @@ content:
 
       Committed to staying in touch with the latest developments in AI, I am perpetually <span class="blue">curious</span> and <span class="blue">eager</span> to explore new ideas and concepts. This drive for <span class="blue">continuous</span> learning and growth enables me to introduce fresh perspectives and innovative solutions to every project I am involved with.
 
-  - title: Publications # Title for the section
+  - title: <span class="blue">Publications</span> # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -178,7 +182,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Franks, Bill (Sept. 2020). <span class="blue">“Use model-agnostic explanations for ﬁnding bias in black box models”</span>. In 97 Things About Ethics Everyone in Data Science Should Know (O’Reilly Media).
 
-  - title: Education # Title for the section
+  - title: <span class="blue">Education</span> # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -189,9 +193,9 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           The Department's rigorous 5-year program equipped me with a solid scientific and engineering foundation, enabling me to contribute effectively to the study, design, development, and analysis of both software and hardware systems. The curriculum also emphasized theoretical approaches to communication, computation, coordination, and the evaluation of computational objects and artifacts.
-          
+
           I graduated with a commendable grade of 7.87/10, which reflects my strong academic performance and understanding of the subject matter.
-          
+
           For my thesis, titled "Model-Agnostic Interpretability with Shapley Values," I delved into the realm of machine learning interpretability, exploring innovative techniques to enhance the transparency and understanding of AI models.
 
       - layout: left
@@ -212,7 +216,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I graduated from high school with an outstanding overall grade of 19.0/20. This achievement laid a strong foundation for my subsequent studies and sparked my passion for continuous learning and excellence in the field of technology.
 
-  - title: A Little More About Me
+  - title: <span class="blue">A Little More About Me</span>
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in AI, ML and software engineering some of my other interests and hobbies are:

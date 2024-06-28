@@ -165,8 +165,8 @@ content:
         # link_text: boringcompany.com
         sub_title: IEEE Conferences
         description: | # this will include new lines to allow paragraphs
-          - Messalas, A., C. Aridas, and Y. Kanellopoulos (2020).  “Evaluating MASHAP as a faster alternative to LIME for model-agnostic machine learning interpretability”. In 2020 IEEE International Conference on Big Data (Big Data), pp. 5777–5779. DOI 10. 1109/BigData50022.2020.9378034.
-          - Messalas, A., Y. Kanellopoulos, and C. Makris (2019). “Model-Agnostic Interpretability with Shapley Values”. In 2019 10th International Conference on Information, Intelligence, Systems and Applications (IISA), pp. 1–7. DOI 10.1109/IISA.2019.8900669.
+          - Messalas, A., C. Aridas, and Y. Kanellopoulos (2020).  <span class="blue">“Evaluating MASHAP as a faster alternative to LIME for model-agnostic machine learning interpretability”</span>. In 2020 IEEE International Conference on Big Data (Big Data), pp. 5777–5779. DOI 10. 1109/BigData50022.2020.9378034.
+          - Messalas, A., Y. Kanellopoulos, and C. Makris (2019). <span class="blue">“Model-Agnostic Interpretability with Shapley Values”</span>. In 2019 10th International Conference on Information, Intelligence, Systems and Applications (IISA), pp. 1–7. DOI 10.1109/IISA.2019.8900669.
 
       - layout: left
         title: Book contributions
@@ -174,7 +174,7 @@ content:
         # link_text: boringcompany.com
         sub_title: O'Reilly Media, Inc.
         description: | # this will include new lines to allow paragraphs
-          - Franks, Bill (Sept. 2020). “Use model-agnostic explanations for ﬁnding bias in black box models”. In 97 Things About Ethics Everyone in Data Science Should Know (O’Reilly Media).
+          - Franks, Bill (Sept. 2020). <span class="blue">“Use model-agnostic explanations for ﬁnding bias in black box models”</span>. In 97 Things About Ethics Everyone in Data Science Should Know (O’Reilly Media).
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -186,9 +186,11 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          The Department's 5-year program provides the scientific and engineering foundation for graduates to contribute to the study, design, development, and analysis of software and hardware systems, as well as theoretical approaches in communication, computation, coordination, and evaluation  of computational objects and artifacts.
-          - Grade: 7.87/10 
-          - Thesis title: Model-Agnostic Interpretability with Shapley Values
+          The Department's rigorous 5-year program equipped me with a solid scientific and engineering foundation, enabling me to contribute effectively to the study, design, development, and analysis of both software and hardware systems. The curriculum also emphasized theoretical approaches to communication, computation, coordination, and the evaluation of computational objects and artifacts.
+          
+          I graduated with a commendable grade of 7.87/10, which reflects my strong academic performance and understanding of the subject matter.
+          
+          For my thesis, titled "Model-Agnostic Interpretability with Shapley Values," I delved into the realm of machine learning interpretability, exploring innovative techniques to enhance the transparency and understanding of AI models.
 
       - layout: left
         title: Universidad de Granada
@@ -197,7 +199,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Studied for one semester in the School of Informatics and Telecommunications Engineering (ETSIIT) in Granada, Spain.
+          I had the enriching opportunity to study abroad for one semester at the School of Informatics and Telecommunications Engineering (ETSIIT) in Granada, Spain. This experience allowed me to immerse myself in a different academic culture, broaden my technical knowledge, and enhance my cross-cultural communication skills.
 
       - layout: left
         title: 13rd High School of Patras
@@ -206,7 +208,7 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Overall Grade: 19.0/20
+          I graduated from high school with an outstanding overall grade of 19.0/20. This achievement laid a strong foundation for my subsequent studies and sparked my passion for continuous learning and excellence in the field of technology.
 
   - title: A Little More About Me
     layout: text

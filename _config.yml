@@ -88,13 +88,15 @@ content:
         quote: >
           Empowering top-tier clients with cutting-edge AI solutions at EY.
         description: | # this will include new lines to allow paragraphs
-          Help high-proﬁle clients deal with data related issues by implementing AI-powered end-to-end solutions. While at EY I have worked at:
-          - Application of AI for deduplicating learning courses and CRM databases.
-          - Design and implementation of event-driven architecture using Apache Kafka and Azure ML Studio (and MLFlow) for predictive maintenance of streaming IoT data from factory sensors
-          - Application of AI to the analysis of (Greek) legal and regulatory documents
-          - Design and implementation of Generative AI applications for QA, Summarization and Field Extraction purposes
-          - Engaged in MLOps responsibilities, overseeing the seamless integration of machine learning models into production, optimizing deployment pipelines.
-
+          I assist high-profile clients in addressing data-related challenges by implementing AI-powered end-to-end solutions. During my tenure at EY, my contributions have included:
+          - Designing and implementing <span class="blue">REST APIs</span> for various AI modules, utilizing a microservices architecture to enable asynchronous task execution for long-running processes. This involved leveraging technologies such as <span class="blue">MLFlow</span>, <span class="blue">Azure AKS</span>, <span class="blue">Azure ML</span>, <span class="blue">Azure AI Services</span>, and <span class="blue">OpenAI</span>.
+          - Developing an <span class="blue">event-driven</span> hybrid (cloud and on-premise) architecture using Apache <span class="blue">Kafka</span>, <span class="blue">MLFlow</span>, and <span class="blue">Azure</span> to facilitate predictive maintenance based on streaming <span class="blue">IoT data</span> from factory sensors.
+          - Applying AI techniques to analyze <span class="blue">legal and regulatory documents</span>, enhancing the efficiency and accuracy of data processing.
+          - Utilizing AI for the <span class="blue">deduplication and cleansing</span> of educational data as well as CRM databases, significantly improving data quality and usability.
+          - Designing and implementing <span class="blue">Generative AI</span> applications for quality assurance, summarization, and field extraction, streamlining complex tasks and providing valuable insights.
+          - Executing comprehensive <span class="blue">MLOps</span> activities and leading the development of full-cycle AI-powered solutions, from conception to deployment, ensuring robust and scalable systems.
+          - Serving as the <span class="blue">Azure administrator</span> for the "AI and Data" team, I am responsible for the management, optimization, and governance of cloud resources, ensuring that our AI initiatives and data workflows are supported effectively and adhere to best practices and compliance standards.
+          - Championing <span class="blue">software excellence</span> by encouraging my team through comprehensive guides and engaging presentations to adhere to best practices and write <span class="blue">clean, maintainable code</span>, thereby elevating the overall quality and sustainability of our software solutions.
       - layout: left
         title: Code4Thought
         link: https://code4thought.eu/
@@ -104,10 +106,10 @@ content:
         quote: >
           Engineering AI with fairness, accountability, and robustness — turning complexity into clarity.
         description: | # this will include new lines to allow paragraphs
-          Building PyThia, a technology that will ensure AI/ML systems are fair, accountable, explainable and adversarially robust. My responsibilities were diverse:
-          - Research and develop evaluation schemes for various Machine Learning (ML) systems
-          - Develop in Python a core part of Pythia
-          - Present and interact with both technical customers and non-technical audiences.
+          I contributed to the development of PyThia, a technology designed to ensure that AI/ML systems are fair, accountable, explainable, and resistant to adversarial attacks. My multifaceted responsibilities included:
+          - Conducting research and developing evaluation frameworks to assess the performance and integrity of various machine learning (ML) systems.
+          - Programming a critical component of Pythia using Python, contributing to the core functionality of the technology.
+          - Delivering presentations and engaging with a diverse range of stakeholders, including technical customers and non-technical audiences, to communicate complex concepts effectively and foster understanding.
 
       - layout: left
         title: Cracow University of Technology
@@ -116,7 +118,7 @@ content:
         sub_title: Researcher
         caption: March 2019 - May 2019
         description: | # this will include new lines to allow paragraphs
-          Researcher in the Faculty of Physics, Mathematics & Computer Sciences, supervised by prof. Michał Bereta on the topic of "Feature selection using Shapley values"
+          Internship as a Researcher within the Faculty of Physics, Mathematics & Computer Science, under the mentorship of Professor Michał Bereta. My research focused on the topic of "Feature Selection Using Shapley Values," exploring advanced methods for identifying the most impactful variables in machine learning models.
 
   - title: Techincal Skills # Title for the section
     layout: text # Type of content section (list/text)

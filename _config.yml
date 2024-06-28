@@ -15,19 +15,19 @@ website: https://amessalas.github.io/
 darkmode: true
 
 # Social links
-twitter_username: AndreasMessalas
+linkedin_username: andreas-messalas-4b7644168
+orcid_username: 0000-0001-7555-2553
 github_username: amessalas
+twitter_username: AndreasMessalas
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: andreasmessalas
-linkedin_username: andreas-messalas-4b7644168
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-orcid_username: 0000-0001-7555-2553
 
 # Additional icon links
 additional_links:
@@ -106,7 +106,7 @@ content:
         caption: |
           July 2019 - June 2021 *
         quote: >
-          Engineering AI with fairness, accountability, and robustness — turning complexity into clarity.
+          Engineering AI with fairness, explainability, accountability, and robustness — turning complexity into clarity.
         description: | # this will include new lines to allow paragraphs
           I contributed to the development of PyThia, a technology designed to ensure that AI/ML systems are fair, accountable, explainable, and resistant to adversarial attacks. My multifaceted responsibilities included:
           - Conducting research and developing evaluation frameworks to assess the performance and integrity of various machine learning (ML) systems.
@@ -121,7 +121,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Researcher
         quote: >
-          Wiedza to potęga.
+          Wiedza jest kluczem do sukcesu.
         caption: March 2019 - May 2019
         description: | # this will include new lines to allow paragraphs
           Internship as a Researcher within the Faculty of Physics, Mathematics & Computer Science, under the mentorship of Professor Michał Bereta. My research focused on the topic of "Feature Selection Using Shapley Values," exploring advanced methods for identifying the most impactful variables in machine learning models.
@@ -225,6 +225,7 @@ content:
       - Books 📚
       - Travel 🛫
       - Gym 🏋️
+      - Dance 🕺
 
       My favorite place on earth is Granada!
 

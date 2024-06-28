@@ -120,28 +120,30 @@ content:
         description: | # this will include new lines to allow paragraphs
           Internship as a Researcher within the Faculty of Physics, Mathematics & Computer Science, under the mentorship of Professor Michał Bereta. My research focused on the topic of "Feature Selection Using Shapley Values," exploring advanced methods for identifying the most impactful variables in machine learning models.
 
-  - title: Techincal Skills # Title for the section
+  - title: Technical Skills # Title for the section
     layout: text # Type of content section (list/text)
     content: |
       **Data Analysis & AI/ML**
-      - Proven record of delivering high-quality <span class="blue">AI-powered</span> solutions and driving successful projects using <span class="blue">Deep Learning</span> and <span class="blue">Generative AI</span>
-      - Deep knowledge of <span class="blue">(un)supervised learning algorithms</span>, <span class="blue">statistical modeling methods</span>, <span class="blue">EDA</span>, <span class="blue">data cleaning</span>, <span class="blue">feature selection</span>, <span class="blue">dimensionality reduction</span> and <span class="blue">performance evaluation</span> schemes for ML models
-      - Most used frameworks: <span class="blue">Pandas</span>, <span class="blue">NumPy</span>, <span class="blue">Scikit-Learn</span>, <span class="blue">PyTorch</span>, <span class="blue">spaCy</span>, <span class="blue">ElasticSearch</span>, <span class="blue">Langchain</span>, <span class="blue">Haystack</span>, <span class="blue">Faiss</span>, <span class="blue">PySpark</span>, <span class="blue">XGBoost</span>, <span class="blue">OpenAI</span>, <span class="blue">Polars</span>, <span class="blue">SQL</span>, etc.
-      - Expertise on ML <span class="blue">Interpretability</span>, <span class="blue">Fairness</span> and <span class="blue">Adversarial Robustness</span>
+      - Proven track record of delivering high-quality <span class="blue">AI-powered</span> solutions, driving successful projects with <span class="blue">Deep Learning</span> and <span class="blue">Generative AI</span>
+      - Extensive experience working with <span class="blue">text</span> and <span class="blue">structured data</span>, as well as a solid background in handling <span class="blue">time-series</span>, <span class="blue">image</span>, and <span class="blue">video data</span>.
+      - In-depth knowledge of <span class="blue">(un)supervised learning algorithms</span>, <span class="blue">statistical modeling methods</span>, <span class="blue">exploratory data analysis (EDA)</span>, <span class="blue">data cleaning</span>, <span class="blue">feature selection</span>, <span class="blue">dimensionality reduction</span> and <span class="blue">performance evaluation</span> for ML models
+      - Proficiency in frameworks and tools such as <span class="blue">Pandas</span>, <span class="blue">NumPy</span>, <span class="blue">Scikit-Learn</span>, <span class="blue">PyTorch</span>, <span class="blue">spaCy</span>, <span class="blue">Langchain</span>, <span class="blue">Haystack</span>, <span class="blue">Faiss</span>, <span class="blue">ElasticSearch</span>, <span class="blue">PySpark</span>, <span class="blue">XGBoost</span>, <span class="blue">OpenAI</span>, <span class="blue">Polars</span>, <span class="blue">SQL</span>, etc.
+      - Expertise in ML <span class="blue">Interpretability</span>, <span class="blue">Fairness</span> and <span class="blue">Adversarial Robustness</span>
 
+      
       **Software Engineering & MLOPs**
-      - Extensive experience with <span class="blue">Microsoft Azure</span> Services
-      - Proﬁcient in containerization using <span class="blue">Docker</span> and basic <span class="blue">Kubernetes</span> skills
-      - Extensive knowledge of <span class="blue">SE principles</span> and <span class="blue">Design Patterns</span> that promote readability and robust software systems.
-      - Experienced in <span class="blue">REST API</span> design using <span class="blue">FastAPI</span>, <span class="blue">Pydantic</span> and <span class="blue">Celery</span> for asynchronous task execution of long-running¸
-      - Proﬁcient in <span class="blue">Apache Kafka</span> for scalable event-driven architectures.
+      - Extensive experience with <span class="blue">Microsoft Azure</span> Services, including management, optimization, and governance of cloud resources.
+      - Proﬁcient in containerization using <span class="blue">Docker</span> and possessing basic <span class="blue">Kubernetes</span> skills
+      - Extensive knowledge of <span class="blue">software engineering principles</span> and <span class="blue">design patterns</span> that promote readability and robust software systems.
+      - Experienced in <span class="blue">REST APIs</span> design using <span class="blue">FastAPI</span>, <span class="blue">Pydantic</span> and <span class="blue">Celery</span> for asynchronous task execution of long-running tasks¸
+      - Proﬁcient in <span class="blue">Apache Kafka</span> for scalable event-driven architectures and <span class="blue">streaming data</span>.
       - Experience with <span class="blue">CI/CD</span> pipelines using <span class="blue">GitHub Actions</span>.
       - Experience in monitoring and visualization tools like <span class="blue">Prometheus</span> and <span class="blue">Grafana</span>.
       - Extensive experience with <span class="blue">Git</span>.
 
       **Visualisations**
-      - Deep experience on building insightful dashboards that are intuitive and easy to use
-      - Most used frameworks: <span class="blue">streamlit</span>, <span class="blue">plotly/dash</span>, <span class="blue">seaborn</span>, <span class="blue">matplotlib</span>
+      - Deep experience in building insightful, intuitive, and user-friendly dashboards.
+      - Proficiency in visualization frameworks such as <span class="blue">Streamlit</span>, <span class="blue">Plotly/Dash</span>, <span class="blue">Seaborn</span>, <span class="blue">Matplotlib</span>
 
   - title: Management and Soft Skills # Title for the section
     layout: text # Type of content section (list/text)

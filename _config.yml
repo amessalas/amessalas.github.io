@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Andreas Messalas
-title: Senior Consultant (AI Engineer)
+title: AI Engineer (Assistant Manager @ EY)
 email: andmessalas@gmail.com
 website: https://amessalas.github.io/
 
@@ -48,7 +48,7 @@ additional_links:
 about_title: <span class="blue">About Me</span>
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name is Andreas, and I'm an <span class="blue">AI Engineer</span> currently serving as a Senior Technology Consultant at EY.
+  Hello, my name is Andreas, and I'm an <span class="blue">AI Engineer</span> currently serving as Assistant Manager (AI & Data) at EY.
   With a wealth of experience in <span class="blue">Python</span>, <span class="blue">artificial intelligence</span>, and <span class="blue">machine learning</span>, I specialize in designing and implementing sophisticated systems to solve complex challenges. My expertise extends to creating efficient <span class="blue">data pipelines</span>, and I have a strong background in developing <span class="blue">REST APIs</span>, <span class="blue">micro-services</span>, and <span class="blue">event-driven</span> architectures that ensure smooth data transmission and processing.
 
   I am deeply familiar with best practices in software development, which I apply rigorously to ensure the quality and reliability of my work. My comprehensive understanding of <span class="blue">CI/CD</span>, particularly with <span class="blue">GitHub Actions</span>, allows me to automate tests, builds, and deployments, facilitating the swift and consistent delivery of software updates. Moreover, I have a demonstrated history of <span class="blue">leading teams</span> to success by employing <span class="blue">Agile</span> methodologies effectively. 
@@ -83,7 +83,7 @@ content:
         title: Ernst & Young Global Limited
         link: https://www.ey.com/en_gr
         # link_text: boringcompany.com
-        sub_title: Senior Technology Consultant
+        sub_title: Assistant Manager
         caption: July 2021 - Present
         quote: >
           Empowering top-tier clients with cutting-edge AI solutions at EY.
